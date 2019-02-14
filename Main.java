@@ -38,6 +38,7 @@ public class Main {
                 if(strh.size() == 0) {
                     result.add(i - (a.length() - 1));
                     strh = new HashMap<>(str);
+		    i = i - (a.length() - 1);
                 }
             }
         }
