@@ -8,6 +8,10 @@ import java.util.List;
 
 public class Main {
 
+	public static new_feature(String x) {
+		System.out.prinln("cool");
+	}
+
     public static List<Integer> findPermutations(String a, String b) {
         List<Integer> result = new ArrayList<>();
 
