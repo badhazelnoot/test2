@@ -12,6 +12,8 @@ public class Main {
 		System.out.prinln("cool");
 	}
 
+asdf
+
     public static List<Integer> findPermutations(String a, String b) {
         List<Integer> result = new ArrayList<>();
 
